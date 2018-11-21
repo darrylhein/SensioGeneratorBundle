@@ -16,7 +16,7 @@ following command to download the latest stable version of this bundle:
 
 .. code-block:: bash
 
-    $ composer require sensio/generator-bundle
+    $ composer require --dev sensio/generator-bundle
 
 Step 2: Enable the Bundle
 ~~~~~~~~~~~~~~~~~~~~~~~~~
